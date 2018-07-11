@@ -1,0 +1,58 @@
+
+.loggo {
+  display: block;
+  margin-left: auto;
+  Margin-right: auto;
+  width: 50%;
+
+}
+.header {
+  text-align: center;
+}
+
+.sektion1 {
+  text-align: center;
+}
+
+
+
+
+
+.Kontakt {
+
+  text-align: center;
+  bottom:0;
+  padding:10px;
+
+
+
+
+
+
+
+}
+
+}
+.div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+.nav {
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li {
+    display:inline;
+}
+.nav a {
+    display:inline-block;
+    padding:10px;
+}
+}
