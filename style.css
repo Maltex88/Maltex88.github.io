@@ -1,10 +1,60 @@
-﻿h1,h2 {
-  color: red;
-  
+h1 {
+
+  Background-color:;
+  text-align: ;
+  color: navy;
 }
+
 p {
-  color: blue;
+  color: navy;
 }
-body {
-  background-color: navy;
+
+.catchphrase {
+
+  background-color: ;
+  color: navy;
+  font-weight: bold;
+  text-align: ;
+  width: auto;
+  height: 22;
+  position: relative;
+  top: ;
+  bottom: 25;
+  right: ;
+  left: ;
 }
+
+ul {
+  
+    background-color: ;
+    
+    text-align: ;
+    font-weight:bold;
+    margin: 0;
+    padding: 0;
+    width: auto;
+   
+    height: 18px;
+    position: relative; 
+    top: ;
+    bottom: 25;
+   
+}
+
+
+li {
+  display: inline;
+  color: navy;
+}
+
+.button {
+    background-color: navy; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+      float: left;
+    border: 1px solid green;
