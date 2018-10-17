@@ -66,12 +66,27 @@ img {
   top: 53px;
   left:5px;
   position: absolute;
+
 }
 #assignmentList {
-  border: 3px solid black;
+  border: 1px solid navy;
+  background-color: lightblue;
   height: 250px;
-  width:300px ;
+  width:200px ;
   position: absolute;
-  top: 200px;
+  top: 161px;
   bottom: auto;
+}
+#assignment {
+  background-color: navy;
+  color: ;
+}
+#assignmentList1 {
+  background-color:  navy;
+  color: white;
+  
+}
+#assignmentList1:hover {
+  background-color: lightblue;
+  
 }
