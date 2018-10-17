@@ -13,13 +13,12 @@ body {
 #quote {
   background-color: white;
   font-weight: bold;
-  border: 1px solid black;
   padding: 0;
-
   position: absolute;
-  top: 30px;
+  top: 50px;
   bottom:;
-  left: 170px;
+  left: 270px;
+  font-size: 25px;
 }
 
 h1 {
@@ -30,6 +29,8 @@ h1 {
   top: auto;
   opacity: ;
   border: ;
+  font-size: 50px;
+ 
 }
 ul {
   margin: 0px;
@@ -61,10 +62,10 @@ ul li:hover ul li {
   display: block;
 }
 img {
-     height: 50px;
-  width:40px ;
-  top: 31px;
-  left:2px;
+     height: 120px;
+  width:60px ;
+  top: 27px;
+  left:5px;
   position: absolute;
 
 }
