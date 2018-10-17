@@ -66,5 +66,12 @@ img {
   top: 53px;
   left:5px;
   position: absolute;
-
+}
+#assignmentList {
+  border: 3px solid black;
+  height: 250px;
+  width:300px ;
+  position: absolute;
+  top: 200px;
+  bottom: auto;
 }
