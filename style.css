@@ -1,14 +1,36 @@
 
 body {
- background: url("https://Maltex88.github.io/background1.jpg") no-repeat center center fixed; 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+  background: url("https://Maltex88.github.io/background1.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   font-family: arial;
-  color: white;
+  color: navy;
+  margin:0;
+  padding:0;
+}
+#quote {
+  background-color: white;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 0;
+
+  position: absolute;
+  top: 30px;
+  bottom:;
+  left: 170px;
 }
 
+h1 {
+  color: navy;
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  top: auto;
+  opacity: ;
+  border: ;
+}
 ul {
   margin: 0px;
   padding: 0px;
@@ -18,7 +40,7 @@ ul li {
   float: left;
   width: 200px;
   height: 40px;
-  background-color: black;
+  background-color: navy;
   opacity: .8;
   line-height: 40px;
   text-align: center; 
@@ -30,11 +52,19 @@ ul li a {
   display: block;
 }
 ul li a:hover {
-  background-color: green;
+  background-color: navy;
 }
 ul li ul li {
   display: none;
 }
 ul li:hover ul li {
   display: block;
+}
+img {
+     height: 50px;
+  width:40px ;
+  top: 31px;
+  left:2px;
+  position: absolute;
+
 }
