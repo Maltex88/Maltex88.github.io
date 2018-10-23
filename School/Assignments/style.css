@@ -1,4 +1,4 @@
-body {
+﻿body {
   background: url("https://Maltex88.github.io/img/background1.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -16,7 +16,7 @@ body {
   position: absolute;
   top: 50px;
   bottom:;
-  left: 270px;
+  left: 250px;
   font-size: 25px;
 }
 
@@ -26,10 +26,12 @@ h1 {
   margin: 0px;
   padding: 0px;
   top: auto;
-  opacity: ;
-  border: ;
+  opacity: 1;
+  border: 1px solid black;
   font-size: 50px;
- 
+   position: relative;
+  width: 798px;
+  
 }
 ul {
   margin: 0px;
@@ -63,7 +65,7 @@ ul li:hover ul li {
 img {
      height: 67px;
   width:59px ;
-  top: 53px;
+  top: 48px;
   left:5px;
   position: absolute;
 
